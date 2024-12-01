@@ -1,2 +1,3 @@
 # demoRepo
-Author - Pratik Negi
+Author - Pratik Negi 
+har bata ki tuu kamala  he 
